@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @adamkruczkowski
-- 👀 I’m interested in ligma ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-adamkruczkowski/adamkruczkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Adam
+- 👀 I’m interested in programming web aps
+- 🌱 I’m currently learning .NET and ASP.NET
+- 📫 How to reach me: adam.kruczkowsk@gmail.com
